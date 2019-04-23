@@ -1,5 +1,5 @@
 {
-  "name": "vue-image-picker",
+  "name": "@wuzhibo/vue-image-picker",
   "version": "0.0.1",
   "description": "An image picker for image uploading.",
   "main": "index.js",
